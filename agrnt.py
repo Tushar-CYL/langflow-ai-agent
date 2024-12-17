@@ -15,7 +15,7 @@ except ImportError:
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "13d3f5cc-afb3-4b83-acdb-0a822935ba83"
 FLOW_ID = "ad5249f3-141c-4041-b76e-6976f719ba64"
-APPLICATION_TOKEN = "AstraCS:AOTMPYXsCneGGAMZAQKZJbaf:db59c4c12f32f9485c14a45e9422c41d58f4a794d77ad6a70901fcf42b5e9669"
+APPLICATION_TOKEN = ""
 ENDPOINT = "" # You can set a specific endpoint name in the flow settings
 
 # You can tweak the flow by adding a tweaks dictionary
